@@ -1,4 +1,5 @@
 flask
-whisper
+openai-whisper
 googletrans==4.0.0-rc1
 gtts
+ffmpeg-python
